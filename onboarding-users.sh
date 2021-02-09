@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Project in progress"
+echo "Project in progress";
