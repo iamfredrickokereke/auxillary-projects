@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+echo This na test oo
 echo welcome to the community bro!
 
 mkdir -p /home/bob/countries/USA && cd /countries/USA && touch capital.txt && echo "Washington, D.C" > capital.txt
