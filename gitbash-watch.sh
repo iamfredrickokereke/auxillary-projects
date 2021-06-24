@@ -10,3 +10,5 @@ done
 
 
 # sample code usage - # watch.sh kubectl get pods
+
+# script must be in the same path 
